@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": ["1.Berlin", "2.Paris", "3.London", "4.Madrid"],
+      "correctAnswerIndex": 1
+    },
+
+    {
+      "question": "Which planet is known as the Red planet",
+      "answers": ["1.Mars", "2.Venus", "3.jupiter", "4.Satune"],
+      "correctAnswerIndex": 0
+    },
+    {
+        "question": "Who wrote the famouse play 'Romeo and juliet'",
+        "answers": ["1. William Shakespeare","2.Charles Dickens","3.Jane Austen","4.F.Scott fitzgerald"],
+        "correctAnswerIndex":0
+    }
+  ]
